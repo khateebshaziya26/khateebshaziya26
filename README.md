@@ -10,11 +10,11 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raj72620&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&hide=issues)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khateebshaziya&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&hide=issues)
   
-![GitHub Streak](https://streak-stats.demolab.com/?user=Raj72620&theme=radical&hide_border=true&fire=FF0000&background=0D1117)
+![GitHub Streak](https://streak-stats.demolab.com/?user=khateebshaziya&theme=radical&hide_border=true&fire=FF0000&background=0D1117)
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj72620&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khateebshaziyalayout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8)
 
 </div>
 
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![Detailed Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raj72620&theme=github-compact&area=true&hide_border=true&custom_title=My%20Contribution%20Graph&radius=8&height=300&point=#36BCF7FF&count_private=true)](https://github.com/Raj72620)
+[![Detailed Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khateebshaziya&theme=github-compact&area=true&hide_border=true&custom_title=My%20Contribution%20Graph&radius=8&height=300&point=#36BCF7FF&count_private=true)](https://github.com/khateebshaziya)
 
 </div>
 
@@ -85,8 +85,3 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-profile)
 
 ---
-
-### **🎧 Eternal Jam**
-<a href="https://open.spotify.com/track/5XSiCt3vTN86SUE7WuHaja">
-  <img src="https://spotify-readme-xi.vercel.app/api/spotify-track?id=5XSiCt3vTN86SUE7WuHaja&theme=dark" width="450" alt="Da Da Dasse">
-</a>
