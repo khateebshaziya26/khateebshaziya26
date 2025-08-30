@@ -10,11 +10,11 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khateebshaziya&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&hide=issues)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khateebshaziya26&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&hide=issues)
   
-![GitHub Streak](https://streak-stats.demolab.com/?user=khateebshaziya&theme=radical&hide_border=true&fire=FF0000&background=0D1117)
+![GitHub Streak](https://streak-stats.demolab.com/?user=khateebshaziya26&theme=radical&hide_border=true&fire=FF0000&background=0D1117)
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khateebshaziyalayout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khateebshaziyalay26out=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8)
 
 </div>
 
