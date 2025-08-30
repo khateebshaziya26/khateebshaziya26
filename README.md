@@ -14,7 +14,7 @@
   
 ![GitHub Streak](https://streak-stats.demolab.com/?user=khateebshaziya26&theme=radical&hide_border=true&fire=FF0000&background=0D1117)
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khateebshaziyalay26out=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khateebshaziya26out=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8)
 
 </div>
 
