@@ -1,8 +1,8 @@
-# 🚀 Hello there, I'm Nishanth
+# 🚀 Hello there, I'm Shaziya Tanzeem 
 
-## 💻 MERN Stack Developer | 🧠 DSA Enthusiast | 🏆 Hackathon Participant
+## 💻 Full Stack Developer | 🧠 DSA in Java | 🏆 Hackathon Participant & Winner
 
-**🔥 Turning coffee into code | 🛠️ Building scalable web apps | 🌱 Forever learning**
+**🔥 Turning Problems into code | 🛠️ Building scalable web applications | 🌱 Adaptable**
 
 ---
 
@@ -28,18 +28,17 @@
 
 ## 👨‍💻 About Me
 
-🎓 Final Year CSE Student at SVCET, Chittoor  
-💡 Passionate about problem-solving and full-stack development  
+🎓 Final Year IT Student at SVCET, Chittoor  
+💡 Passionate about problem-solving and debugging  
 🏆 Actively participates in hackathons and tech events  
 📚 Continuous learner exploring new technologies  
 
-> *"A techie with a passion for exploring new technologies, enhancing skills, and solving complex problems."*
+> *"Aspiring a successful software developer "*
 
-- 🔭 Currently working on: MERN stack projects with TypeScript
-- 🌱 Learning: Advanced System Design & Microservices
-- 👯 Looking to collaborate on: Open-source projects
-- 💬 Ask me about: Web Development, DSA, or Hackathons
-- ⚡ Fun fact: I can solve Rubik's cube in under 2 minutes!
+- 🔭 Currently working on: Full stack projects 
+- 🌱 Learning: Data structures & Algo
+- 👯 Ready to Collaborate
+- 💬 Ask me about: Full Stack Development, DSA, or Hackathons
 
 ---
 
