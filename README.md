@@ -20,11 +20,7 @@
 
 ## 🚀 Coding Activity
 
-<div align="center">
 
-[![Detailed Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khateebshaziya26&theme=github-compact&area=true&hide_border=true&custom_title=My%20Contribution%20Graph&radius=8&height=300&point=#36BCF7FF&count_private=true)](https://github.com/khateebshaziya26)
-
-</div>
 
 ## 👨‍💻 About Me
 
